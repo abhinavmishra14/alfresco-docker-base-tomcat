@@ -1,3 +1,3 @@
 # Java 8 Centos 7 Base Image for Alfresco Base Tomcat Image
-FROM alfresco/alfresco-base-java:8.0.302-centos-7@sha256:42ca4591007d6ddcc3aebe8404de74117a3eda2a25fbba067f4fb7d2b5381986
+FROM alfresco/alfresco-base-java:8.0.302-centos-8@sha256:ac76b098ae98030aedc85d1bb91edba1a5cc2376d9b93b44d07397c92d4ba431
 ENV JDK_HOME ${JAVA_HOME}/../
